@@ -1,8 +1,18 @@
 # Boojiwoo
-
-A simple starter project with Express, Handlebars, Sequelize, Passport and Local Auth.
+A task manager for 9-12 year olds to help them learn life skills in a fun reward system.
 
 ## Requirements:
+<ul>
+  <li>Use a Node and Express Web Server;</li>
+  <li>Be backed by a MySQL Database an ORM (not necessarily Sequelize);</li>
+  <li>Have both GET and POST routes for retrieving and adding new data;</li>
+  <li>Be deployed using Heroku (with Data);</li>
+  <li>Utilize at least one new library, package, or technology that we haven’t discussed;</li>
+  <li>Have a polished frontend / UI;</li>
+  <li>Have folder structure that meets MVC Paradigm;</li>
+  <li>Meet good quality coding standards (indentation, scoping, naming).</li>
+  <li>Must not expose sensitive API key information on the server, see Protecting-API-Keys-In-Node.md</li>
+</ul>
 
 ## Technologies Used: 
 <ul>
@@ -15,7 +25,6 @@ A simple starter project with Express, Handlebars, Sequelize, Passport and Local
   <li>NPM (Express, Sequelize, Handlebars, Nodemailer, Schedule, Mocha, Chai, EsLint, Passport)</li>
 </ul>
 
-## About
 
 ### Login Page
 <img width="1022" alt="Screen Shot 2019-04-10 at 6 48 39 PM" src="https://user-images.githubusercontent.com/17474969/55919024-6521ae80-5bc2-11e9-9abd-f660cfcf285d.png">
